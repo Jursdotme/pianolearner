@@ -8,19 +8,19 @@
   }
 
   #octave .white {
-    @apply bg-slate-200 w-full h-[10rem] border border-slate-300 hover: bg-slate-300;
+    @apply bg-slate-200 w-full h-[10rem] border border-slate-300 hover:bg-slate-300;
   }
 
   #octave .dark {
-    @apply bg-slate-600 w-full h-[6rem] z-10 hover: bg-slate-700;
+    @apply bg-slate-600 w-full h-[6rem] z-10 hover:bg-slate-700;
   }
 
   #octave .white.active {
-    @apply bg-teal-200 hover: bg-teal-300;
+    @apply bg-teal-200 hover:bg-teal-300;
   }
 
   #octave .dark.active {
-    @apply bg-teal-600 hover: bg-teal-700;
+    @apply bg-teal-600 hover:bg-teal-700;
   }
 
   .key-c {
